@@ -3,10 +3,10 @@
 This is a tutorial app within railstutorial.org
 
 ## Environment
-- Distributor ID:	Ubuntu
-- Description:	Ubuntu 16.04.5 LTS
-- Release:	16.04
-- Codename:	xenial
+ Distributor ID:	Ubuntu
+ Description:	Ubuntu 16.04.5 LTS
+ Release:	16.04
+ Codename:	xenial
 
 ## Prerequisites
 

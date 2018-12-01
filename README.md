@@ -1,13 +1,17 @@
-# README
+# hello_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a tutorial app within railstutorial.org
 
-Things you may want to cover:
+## environment
 
-* Ruby version
+
+
+* ruby 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]
+
+* Rails 5.1.6
 
 * System dependencies
+- 
 
 * Configuration
 

@@ -1,24 +1,23 @@
-# README
+# hello_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a tutorial app within railstutorial.org
 
-Things you may want to cover:
+## Environment
+ Distributor ID:	Ubuntu    
+ Description:	Ubuntu 16.04.5 LTS    
+ Release:	16.04    
+ Codename:	xenial    
 
-* Ruby version
+## Prerequisites
 
-* System dependencies
+- ruby 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]
 
-* Configuration
+- Rails 5.1.6
 
-* Database creation
+- Nodejs v4.2.6
 
-* Database initialization
+## Deployment instructions
 
-* How to run the test suite
+- ```bundle install```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ```rails server```
